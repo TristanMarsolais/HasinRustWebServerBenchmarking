@@ -1,0 +1,40 @@
+(
+    address: "0.0.0.0",
+    port : 8083,
+    paths : {
+        "0.0.0.0" : (
+            path : "tmp",
+            allow : [
+                "html",
+                "css",
+                "js",
+                "jpg",
+                "png",
+                "svg"
+            ]
+        ),
+        "localhost" : (
+            path : "tmp",
+            allow : [
+                "html",
+                "css",
+                "js",
+                "jpg",
+                "png",
+                "svg"
+            ]
+        ),
+        "subdomin.localhost" : (
+            path : "tmp",
+            allow : [
+                "html",
+                "css",
+                "js",
+                "jpg",
+                "png",
+                "svg"
+            ]
+        ),
+    },
+    timeout: 5,
+)
