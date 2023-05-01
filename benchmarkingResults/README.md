@@ -38,5 +38,8 @@ This script reads the data from the output files and generates two graphs:
 - One for the performance comparison when serving small static files
 - One for the performance comparison when serving large static files
 
+## Results
 
+![bigFilesResult](https://user-images.githubusercontent.com/58867539/235388765-1a4ec6c6-c27a-44c9-8fd7-a49eff16686b.png)
+![smallFilesResult](https://user-images.githubusercontent.com/58867539/235388774-31bf317c-ec1f-4a1a-baa9-cd7769b12e3a.png)
 
