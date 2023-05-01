@@ -24,3 +24,7 @@ The benchmarking process consists of the following steps:
 2. Run the web servers.
 
 3. Run the benchmark.
+
+## Results 
+![bigFilesResult](https://user-images.githubusercontent.com/58867539/235388881-7ca1e950-a897-487a-b84c-6ab9cb42909e.png)
+![smallFilesResult](https://user-images.githubusercontent.com/58867539/235388893-5ed1e080-cc20-44b0-b6f3-48cc12480361.png)
