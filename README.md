@@ -19,8 +19,8 @@ The benchmarking process consists of the following steps:
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository.
 
-2. Run the web servers:
+2. Run the web servers.
 
-3. Run the benchmark:
+3. Run the benchmark.
